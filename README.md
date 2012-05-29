@@ -1,0 +1,4 @@
+magento
+=======
+
+Base magento install
