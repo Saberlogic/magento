@@ -1,4 +1,0 @@
-magento
-=======
-
-Base magento install
